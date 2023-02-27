@@ -57,3 +57,8 @@ header{
 .about{
   background-color: #1abc9c;
 }
+
+footer{
+  background-color: #3a546d;
+  padding: 2rem 0;
+}
